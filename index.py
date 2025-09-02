@@ -5,4 +5,6 @@ print(12.3) #This prints a decimal number
 def demo(n):
     print(n)
 
-demo("im going to call demo function")    
+demo("im going to call demo function") 
+demo_one="Text1"
+demo_two="Text2"   
